@@ -1,0 +1,445 @@
+Match_Id,Season,Date,Team1,Team2,Venue,Toss_Winner,Toss_Decision,First_Innings_Team,Chasing_Team,First_Innings_Score,Chasing_Team_Score,Winner,Result_Type,Margin,Player_Of_The_Match
+1,2020,2020-04-12,Gt,Dc,Ma Chidambaram Stadium,Gt,Bat,Gt,Dc,158,144,Gt,Bat First,22,Shubman Gill
+2,2020,2020-04-07,Csk,Kkr,Pca Is Bindra Stadium,Kkr,Field,Csk,Kkr,229,239,Kkr,Chase,17,Sunil Narine
+3,2020,2020-05-09,Rcb,Pbks,Pca Is Bindra Stadium,Rcb,Field,Pbks,Rcb,159,133,Pbks,Bat First,20,Mohammed Siraj
+4,2020,2020-03-26,Mi,Gt,Arun Jaitley Stadium,Mi,Bat,Mi,Gt,169,144,Mi,Bat First,30,Suryakumar Yadav
+5,2020,2020-05-16,Kkr,Csk,Pca Is Bindra Stadium,Csk,Bat,Csk,Kkr,156,98,Csk,Bat First,22,Ravindra Jadeja
+6,2020,2020-04-13,Lsg,Mi,Eden Gardens,Lsg,Field,Mi,Lsg,189,190,Lsg,Chase,33,Ravi Bishnoi
+7,2020,2020-03-31,Rcb,Rr,Ma Chidambaram Stadium,Rcb,Bat,Rcb,Rr,151,146,Rcb,Bat First,23,Jos Buttler
+8,2020,2020-04-24,Kkr,Pbks,M. Chinnaswamy Stadium,Kkr,Bat,Kkr,Pbks,206,209,Pbks,Chase,31,Sunil Narine
+9,2020,2020-05-15,Mi,Srh,Eden Gardens,Srh,Field,Mi,Srh,227,245,Srh,Chase,14,Heinrich Klaasen
+10,2020,2020-04-23,Rcb,Rr,Ekana Cricket Stadium,Rr,Field,Rcb,Rr,227,239,Rr,Chase,27,Glenn Maxwell
+11,2020,2020-03-21,Mi,Dc,M. Chinnaswamy Stadium,Dc,Bat,Dc,Mi,155,158,Mi,Chase,49,Hardik Pandya
+12,2020,2020-04-14,Lsg,Mi,Rajiv Gandhi International Stadium,Mi,Field,Lsg,Mi,199,203,Mi,Chase,6,Ayush Badoni
+13,2020,2020-05-12,Csk,Gt,Wankhede Stadium,Gt,Field,Csk,Gt,146,137,Csk,Bat First,33,Shubman Gill
+14,2020,2020-05-09,Rcb,Csk,Ekana Cricket Stadium,Csk,Bat,Csk,Rcb,105,96,Csk,Bat First,21,Mohammed Siraj
+15,2020,2020-05-01,Mi,Kkr,Wankhede Stadium,Mi,Field,Kkr,Mi,183,193,Mi,Chase,52,Rinku Singh
+16,2020,2020-05-10,Kkr,Rcb,Pca Is Bindra Stadium,Rcb,Bat,Rcb,Kkr,147,151,Kkr,Chase,35,Shreyas Iyer
+17,2020,2020-03-31,Csk,Kkr,Rajiv Gandhi International Stadium,Csk,Bat,Csk,Kkr,233,195,Csk,Bat First,18,Ms Dhoni
+18,2020,2020-03-31,Mi,Rr,Sawai Mansingh Stadium,Mi,Field,Rr,Mi,171,148,Rr,Bat First,44,Rohit Sharma
+19,2020,2020-04-02,Lsg,Gt,Pca Is Bindra Stadium,Gt,Field,Lsg,Gt,211,189,Lsg,Bat First,25,Ayush Badoni
+20,2020,2020-04-08,Srh,Pbks,Arun Jaitley Stadium,Srh,Bat,Srh,Pbks,203,228,Pbks,Chase,9,Heinrich Klaasen
+21,2020,2020-04-17,Csk,Lsg,Arun Jaitley Stadium,Csk,Field,Lsg,Csk,170,157,Lsg,Bat First,40,Kl Rahul
+22,2020,2020-04-11,Gt,Rr,Sawai Mansingh Stadium,Gt,Field,Rr,Gt,217,215,Rr,Bat First,52,Sai Sudharsan
+23,2020,2020-05-15,Rcb,Srh,Wankhede Stadium,Rcb,Bat,Rcb,Srh,135,96,Rcb,Bat First,50,Mohammed Siraj
+24,2020,2020-04-04,Pbks,Dc,Wankhede Stadium,Pbks,Bat,Pbks,Dc,195,206,Dc,Chase,45,Arshdeep Singh
+25,2020,2020-05-19,Rr,Rcb,Pca Is Bindra Stadium,Rr,Bat,Rr,Rcb,224,234,Rcb,Chase,7,Glenn Maxwell
+26,2020,2020-05-05,Gt,Lsg,Arun Jaitley Stadium,Gt,Bat,Gt,Lsg,179,176,Gt,Bat First,16,Mohammed Shami
+27,2020,2020-04-24,Srh,Dc,Eden Gardens,Srh,Field,Dc,Srh,157,150,Dc,Bat First,23,David Warner
+28,2020,2020-05-03,Srh,Kkr,Wankhede Stadium,Kkr,Bat,Kkr,Srh,179,195,Srh,Chase,50,Pat Cummins
+29,2020,2020-05-07,Dc,Csk,Rajiv Gandhi International Stadium,Dc,Bat,Dc,Csk,173,153,Dc,Bat First,41,Ruturaj Gaikwad
+30,2020,2020-05-14,Gt,Rcb,M. Chinnaswamy Stadium,Gt,Field,Rcb,Gt,166,177,Gt,Chase,23,Mohammed Siraj
+31,2020,2020-05-09,Pbks,Rcb,Ekana Cricket Stadium,Pbks,Field,Rcb,Pbks,166,214,Pbks,Chase,39,Mohammed Siraj
+32,2020,2020-04-27,Mi,Kkr,Ekana Cricket Stadium,Mi,Field,Kkr,Mi,197,245,Mi,Chase,29,Shreyas Iyer
+33,2020,2020-05-19,Csk,Gt,M. Chinnaswamy Stadium,Csk,Field,Gt,Csk,171,147,Gt,Bat First,30,Ravindra Jadeja
+34,2020,2020-05-20,Mi,Csk,Pca Is Bindra Stadium,Csk,Bat,Csk,Mi,179,164,Csk,Bat First,29,Shivam Dube
+35,2020,2020-05-02,Gt,Rcb,Wankhede Stadium,Rcb,Bat,Rcb,Gt,204,195,Rcb,Bat First,5,Mohammed Shami
+36,2020,2020-04-04,Rcb,Gt,Eden Gardens,Rcb,Field,Gt,Rcb,160,159,Gt,Bat First,24,Mohammed Siraj
+37,2020,2020-04-19,Rr,Mi,Ma Chidambaram Stadium,Rr,Field,Mi,Rr,150,201,Rr,Chase,51,Yashasvi Jaiswal
+38,2020,2020-04-14,Dc,Rr,Eden Gardens,Rr,Field,Dc,Rr,213,222,Rr,Chase,28,Yashasvi Jaiswal
+39,2020,2020-05-13,Pbks,Mi,Ma Chidambaram Stadium,Mi,Field,Pbks,Mi,151,144,Pbks,Bat First,51,Shikhar Dhawan
+40,2020,2020-03-25,Rr,Lsg,Eden Gardens,Rr,Bat,Rr,Lsg,188,192,Lsg,Chase,50,Sanju Samson
+41,2020,2020-04-05,Gt,Lsg,Sawai Mansingh Stadium,Lsg,Bat,Lsg,Gt,218,199,Lsg,Bat First,28,Rashid Khan
+42,2020,2020-05-20,Pbks,Rr,Wankhede Stadium,Pbks,Bat,Pbks,Rr,201,205,Rr,Chase,36,Shikhar Dhawan
+43,2020,2020-04-13,Gt,Csk,Pca Is Bindra Stadium,Csk,Bat,Csk,Gt,173,202,Gt,Chase,13,Rashid Khan
+44,2020,2020-03-25,Srh,Lsg,Ekana Cricket Stadium,Lsg,Field,Srh,Lsg,194,197,Lsg,Chase,29,Heinrich Klaasen
+45,2020,2020-04-17,Kkr,Dc,Pca Is Bindra Stadium,Kkr,Field,Dc,Kkr,194,189,Dc,Bat First,4,David Warner
+46,2020,2020-04-30,Pbks,Csk,Rajiv Gandhi International Stadium,Csk,Field,Pbks,Csk,211,193,Pbks,Bat First,25,Shivam Dube
+47,2020,2020-04-09,Rcb,Mi,Sawai Mansingh Stadium,Rcb,Field,Mi,Rcb,151,118,Mi,Bat First,7,Rajat Patidar
+48,2020,2020-05-05,Csk,Lsg,Arun Jaitley Stadium,Lsg,Bat,Lsg,Csk,150,138,Lsg,Bat First,19,Shivam Dube
+49,2020,2020-03-23,Gt,Rcb,Wankhede Stadium,Rcb,Bat,Rcb,Gt,210,239,Gt,Chase,40,Rashid Khan
+50,2020,2020-05-19,Gt,Pbks,Pca Is Bindra Stadium,Gt,Bat,Gt,Pbks,162,171,Pbks,Chase,5,Arshdeep Singh
+51,2020,2020-04-20,Lsg,Dc,Rajiv Gandhi International Stadium,Dc,Field,Lsg,Dc,187,161,Lsg,Bat First,14,Axar Patel
+52,2020,2020-04-10,Kkr,Gt,Ma Chidambaram Stadium,Gt,Bat,Gt,Kkr,168,190,Kkr,Chase,38,Rashid Khan
+53,2020,2020-04-15,Mi,Srh,Wankhede Stadium,Srh,Bat,Srh,Mi,157,178,Mi,Chase,26,Pat Cummins
+54,2020,2020-04-13,Gt,Rr,Rajiv Gandhi International Stadium,Gt,Bat,Gt,Rr,157,150,Gt,Bat First,44,Jos Buttler
+55,2020,2020-05-22,Lsg,Rcb,Arun Jaitley Stadium,Rcb,Field,Lsg,Rcb,159,196,Rcb,Chase,18,Glenn Maxwell
+56,2020,2020-04-18,Pbks,Rcb,Pca Is Bindra Stadium,Pbks,Field,Rcb,Pbks,204,172,Rcb,Bat First,18,Arshdeep Singh
+57,2020,2020-04-27,Rr,Rcb,Sawai Mansingh Stadium,Rcb,Field,Rr,Rcb,187,159,Rr,Bat First,5,Glenn Maxwell
+58,2020,2020-05-22,Csk,Rcb,Pca Is Bindra Stadium,Csk,Bat,Csk,Rcb,208,198,Csk,Bat First,16,Rajat Patidar
+59,2020,2020-04-19,Srh,Kkr,Ma Chidambaram Stadium,Kkr,Bat,Kkr,Srh,172,159,Kkr,Bat First,15,Rinku Singh
+60,2020,2020-03-27,Lsg,Pbks,Ekana Cricket Stadium,Pbks,Bat,Pbks,Lsg,180,173,Pbks,Bat First,25,Liam Livingstone
+61,2020,2020-05-01,Lsg,Gt,Eden Gardens,Lsg,Field,Gt,Lsg,149,118,Gt,Bat First,39,Ayush Badoni
+62,2020,2020-05-20,Pbks,Mi,Rajiv Gandhi International Stadium,Mi,Field,Pbks,Mi,167,204,Mi,Chase,36,Suryakumar Yadav
+63,2020,2020-04-28,Mi,Lsg,Wankhede Stadium,Mi,Field,Lsg,Mi,158,192,Mi,Chase,8,Ayush Badoni
+64,2020,2020-05-03,Pbks,Csk,M. Chinnaswamy Stadium,Pbks,Bat,Pbks,Csk,184,192,Csk,Chase,42,Ruturaj Gaikwad
+65,2020,2020-03-24,Dc,Lsg,Ekana Cricket Stadium,Lsg,Field,Dc,Lsg,173,173,Lsg,Chase,15,Axar Patel
+66,2020,2020-04-16,Dc,Rcb,Narendra Modi Stadium,Dc,Field,Rcb,Dc,199,181,Rcb,Bat First,53,Axar Patel
+67,2020,2020-05-01,Srh,Rr,Rajiv Gandhi International Stadium,Rr,Bat,Rr,Srh,147,140,Rr,Bat First,38,Heinrich Klaasen
+68,2020,2020-04-05,Kkr,Rr,M. Chinnaswamy Stadium,Rr,Bat,Rr,Kkr,171,153,Rr,Bat First,26,Shreyas Iyer
+69,2020,2020-03-30,Dc,Srh,Arun Jaitley Stadium,Srh,Field,Dc,Srh,208,160,Dc,Bat First,42,Abhishek Sharma
+70,2020,2020-05-17,Gt,Pbks,Ma Chidambaram Stadium,Pbks,Field,Gt,Pbks,173,157,Gt,Bat First,11,Arshdeep Singh
+71,2020,2020-05-13,Csk,Gt,Pca Is Bindra Stadium,Gt,Field,Csk,Gt,215,198,Csk,Bat First,3,Shivam Dube
+72,2020,2020-04-02,Rr,Rcb,Sawai Mansingh Stadium,Rcb,Field,Rr,Rcb,178,165,Rr,Bat First,28,Sanju Samson
+73,2020,2020-04-09,Lsg,Dc,Arun Jaitley Stadium,Dc,Bat,Dc,Lsg,201,184,Dc,Bat First,21,Ravi Bishnoi
+74,2020,2020-05-20,Mi,Kkr,Eden Gardens,Mi,Field,Kkr,Mi,191,179,Kkr,Bat First,44,Shreyas Iyer
+75,2021,2021-04-26,Gt,Kkr,Ma Chidambaram Stadium,Gt,Bat,Gt,Kkr,163,179,Kkr,Chase,29,Mohammed Shami
+76,2021,2021-04-06,Lsg,Pbks,Rajiv Gandhi International Stadium,Pbks,Field,Lsg,Pbks,181,158,Lsg,Bat First,31,Ayush Badoni
+77,2021,2021-04-18,Mi,Kkr,Arun Jaitley Stadium,Mi,Field,Kkr,Mi,105,112,Mi,Chase,31,Jasprit Bumrah
+78,2021,2021-05-21,Dc,Pbks,Ma Chidambaram Stadium,Dc,Field,Pbks,Dc,164,180,Dc,Chase,30,Arshdeep Singh
+79,2021,2021-04-22,Rr,Pbks,Narendra Modi Stadium,Pbks,Field,Rr,Pbks,162,134,Rr,Bat First,22,Sam Curran
+80,2021,2021-05-18,Csk,Lsg,Rajiv Gandhi International Stadium,Csk,Field,Lsg,Csk,181,156,Lsg,Bat First,16,Ravindra Jadeja
+81,2021,2021-04-15,Rcb,Pbks,Ekana Cricket Stadium,Rcb,Bat,Rcb,Pbks,206,226,Pbks,Chase,49,Sam Curran
+82,2021,2021-04-15,Kkr,Rr,Ma Chidambaram Stadium,Rr,Field,Kkr,Rr,125,99,Kkr,Bat First,19,Jos Buttler
+83,2021,2021-03-22,Gt,Mi,Arun Jaitley Stadium,Gt,Field,Mi,Gt,153,162,Gt,Chase,44,Jasprit Bumrah
+84,2021,2021-04-27,Rr,Gt,Arun Jaitley Stadium,Gt,Bat,Gt,Rr,160,154,Gt,Bat First,8,Rashid Khan
+85,2021,2021-04-27,Srh,Gt,Narendra Modi Stadium,Gt,Bat,Gt,Srh,232,236,Srh,Chase,25,Abhishek Sharma
+86,2021,2021-05-02,Lsg,Mi,Sawai Mansingh Stadium,Lsg,Field,Mi,Lsg,171,154,Mi,Bat First,46,Jasprit Bumrah
+87,2021,2021-03-22,Dc,Rcb,Rajiv Gandhi International Stadium,Rcb,Bat,Rcb,Dc,150,141,Rcb,Bat First,12,David Warner
+88,2021,2021-04-30,Csk,Pbks,Wankhede Stadium,Csk,Field,Pbks,Csk,180,243,Csk,Chase,40,Arshdeep Singh
+89,2021,2021-05-23,Gt,Rcb,Wankhede Stadium,Rcb,Field,Gt,Rcb,140,140,Rcb,Chase,35,Shubman Gill
+90,2021,2021-03-29,Lsg,Kkr,Arun Jaitley Stadium,Lsg,Bat,Lsg,Kkr,234,245,Kkr,Chase,51,Shreyas Iyer
+91,2021,2021-05-04,Mi,Srh,Wankhede Stadium,Srh,Field,Mi,Srh,177,166,Mi,Bat First,5,Hardik Pandya
+92,2021,2021-03-30,Pbks,Mi,Eden Gardens,Mi,Bat,Mi,Pbks,148,145,Mi,Bat First,2,Liam Livingstone
+93,2021,2021-04-17,Kkr,Pbks,Arun Jaitley Stadium,Pbks,Bat,Pbks,Kkr,168,176,Kkr,Chase,30,Rinku Singh
+94,2021,2021-04-25,Rcb,Lsg,Ekana Cricket Stadium,Rcb,Field,Lsg,Rcb,139,184,Rcb,Chase,22,Rajat Patidar
+95,2021,2021-03-21,Csk,Rr,Ma Chidambaram Stadium,Rr,Field,Csk,Rr,105,90,Csk,Bat First,44,Trent Boult
+96,2021,2021-04-14,Pbks,Srh,Eden Gardens,Pbks,Bat,Pbks,Srh,181,159,Pbks,Bat First,37,Shikhar Dhawan
+97,2021,2021-05-17,Srh,Gt,Arun Jaitley Stadium,Gt,Field,Srh,Gt,164,133,Srh,Bat First,44,Shubman Gill
+98,2021,2021-05-18,Csk,Gt,Wankhede Stadium,Csk,Bat,Csk,Gt,188,197,Gt,Chase,22,Ruturaj Gaikwad
+99,2021,2021-05-16,Dc,Rcb,Narendra Modi Stadium,Dc,Field,Rcb,Dc,234,245,Dc,Chase,33,Mohammed Siraj
+100,2021,2021-05-07,Rr,Dc,Rajiv Gandhi International Stadium,Rr,Field,Dc,Rr,141,106,Dc,Bat First,27,Rishabh Pant
+101,2021,2021-04-02,Lsg,Rr,Ma Chidambaram Stadium,Lsg,Field,Rr,Lsg,187,190,Lsg,Chase,23,Trent Boult
+102,2021,2021-04-24,Gt,Csk,Wankhede Stadium,Csk,Bat,Csk,Gt,175,175,Gt,Chase,15,Sai Sudharsan
+103,2021,2021-03-31,Rcb,Csk,Pca Is Bindra Stadium,Csk,Bat,Csk,Rcb,178,221,Rcb,Chase,43,Rajat Patidar
+104,2021,2021-04-08,Lsg,Rcb,M. Chinnaswamy Stadium,Lsg,Field,Rcb,Lsg,154,136,Rcb,Bat First,52,Nicholas Pooran
+105,2021,2021-05-08,Dc,Rr,M. Chinnaswamy Stadium,Rr,Field,Dc,Rr,183,200,Rr,Chase,51,Sanju Samson
+106,2021,2021-04-25,Csk,Dc,Wankhede Stadium,Dc,Field,Csk,Dc,168,187,Dc,Chase,13,Rishabh Pant
+107,2021,2021-04-21,Kkr,Mi,Sawai Mansingh Stadium,Mi,Bat,Mi,Kkr,211,217,Kkr,Chase,50,Andre Russell
+108,2021,2021-05-15,Dc,Lsg,Wankhede Stadium,Lsg,Field,Dc,Lsg,173,180,Lsg,Chase,19,Rishabh Pant
+109,2021,2021-05-18,Lsg,Pbks,Wankhede Stadium,Pbks,Field,Lsg,Pbks,227,201,Lsg,Bat First,50,Liam Livingstone
+110,2021,2021-04-16,Csk,Kkr,Narendra Modi Stadium,Kkr,Field,Csk,Kkr,141,194,Kkr,Chase,43,Sunil Narine
+111,2021,2021-05-12,Csk,Srh,Wankhede Stadium,Srh,Bat,Srh,Csk,184,174,Srh,Bat First,46,Ms Dhoni
+112,2021,2021-05-15,Rcb,Rr,Wankhede Stadium,Rr,Bat,Rr,Rcb,173,223,Rcb,Chase,48,Sanju Samson
+113,2021,2021-03-23,Kkr,Dc,Eden Gardens,Kkr,Field,Dc,Kkr,204,144,Dc,Bat First,9,David Warner
+114,2021,2021-04-11,Csk,Gt,Eden Gardens,Csk,Bat,Csk,Gt,204,193,Csk,Bat First,15,Ravindra Jadeja
+115,2021,2021-05-15,Rr,Rcb,Narendra Modi Stadium,Rr,Bat,Rr,Rcb,191,199,Rcb,Chase,19,Glenn Maxwell
+116,2021,2021-05-07,Mi,Gt,Ma Chidambaram Stadium,Gt,Bat,Gt,Mi,179,226,Mi,Chase,28,Jasprit Bumrah
+117,2021,2021-04-13,Srh,Dc,Arun Jaitley Stadium,Srh,Field,Dc,Srh,198,194,Dc,Bat First,37,Kuldeep Yadav
+118,2021,2021-04-29,Mi,Kkr,Narendra Modi Stadium,Kkr,Field,Mi,Kkr,172,198,Kkr,Chase,3,Andre Russell
+119,2021,2021-04-15,Srh,Kkr,Narendra Modi Stadium,Srh,Field,Kkr,Srh,219,203,Kkr,Bat First,33,Heinrich Klaasen
+120,2021,2021-04-12,Lsg,Kkr,Narendra Modi Stadium,Kkr,Bat,Kkr,Lsg,163,134,Kkr,Bat First,51,Kl Rahul
+121,2021,2021-05-02,Rcb,Gt,Wankhede Stadium,Rcb,Field,Gt,Rcb,188,213,Rcb,Chase,21,Mohammed Shami
+122,2021,2021-04-04,Dc,Pbks,Eden Gardens,Dc,Bat,Dc,Pbks,169,159,Dc,Bat First,17,Liam Livingstone
+123,2021,2021-05-02,Dc,Csk,M. Chinnaswamy Stadium,Dc,Bat,Dc,Csk,176,175,Dc,Bat First,5,Rishabh Pant
+124,2021,2021-05-16,Csk,Lsg,Sawai Mansingh Stadium,Csk,Bat,Csk,Lsg,170,167,Csk,Bat First,4,Kl Rahul
+125,2021,2021-03-22,Rr,Srh,Wankhede Stadium,Srh,Bat,Srh,Rr,193,220,Rr,Chase,36,Jos Buttler
+126,2021,2021-04-01,Gt,Csk,Sawai Mansingh Stadium,Gt,Bat,Gt,Csk,136,115,Gt,Bat First,39,Shubman Gill
+127,2021,2021-05-02,Kkr,Pbks,Arun Jaitley Stadium,Kkr,Field,Pbks,Kkr,145,153,Kkr,Chase,43,Sam Curran
+128,2021,2021-04-08,Mi,Gt,Sawai Mansingh Stadium,Mi,Field,Gt,Mi,202,189,Gt,Bat First,40,Hardik Pandya
+129,2021,2021-04-30,Mi,Gt,M. Chinnaswamy Stadium,Gt,Field,Mi,Gt,149,158,Gt,Chase,11,Rashid Khan
+130,2021,2021-03-24,Dc,Rcb,Pca Is Bindra Stadium,Rcb,Bat,Rcb,Dc,163,145,Rcb,Bat First,28,Rajat Patidar
+131,2021,2021-04-10,Kkr,Rr,Eden Gardens,Kkr,Field,Rr,Kkr,156,171,Kkr,Chase,51,Sanju Samson
+132,2021,2021-05-08,Kkr,Rr,M. Chinnaswamy Stadium,Rr,Field,Kkr,Rr,119,122,Rr,Chase,20,Sanju Samson
+133,2021,2021-05-11,Rr,Gt,Arun Jaitley Stadium,Gt,Bat,Gt,Rr,160,164,Rr,Chase,20,Mohammed Shami
+134,2021,2021-04-20,Dc,Gt,Ma Chidambaram Stadium,Dc,Bat,Dc,Gt,190,200,Gt,Chase,42,Rishabh Pant
+135,2021,2021-05-04,Pbks,Gt,Rajiv Gandhi International Stadium,Pbks,Field,Gt,Pbks,172,141,Gt,Bat First,28,Arshdeep Singh
+136,2021,2021-05-21,Csk,Rcb,Ma Chidambaram Stadium,Rcb,Field,Csk,Rcb,191,245,Rcb,Chase,23,Ravindra Jadeja
+137,2021,2021-05-15,Rcb,Srh,Ekana Cricket Stadium,Rcb,Field,Srh,Rcb,124,124,Rcb,Chase,9,Abhishek Sharma
+138,2021,2021-04-25,Srh,Lsg,Sawai Mansingh Stadium,Lsg,Bat,Lsg,Srh,169,162,Lsg,Bat First,27,Ravi Bishnoi
+139,2021,2021-04-04,Srh,Csk,Eden Gardens,Srh,Field,Csk,Srh,132,159,Srh,Chase,13,Shivam Dube
+140,2021,2021-03-26,Rr,Rcb,Eden Gardens,Rcb,Field,Rr,Rcb,180,221,Rcb,Chase,48,Jos Buttler
+141,2021,2021-04-03,Lsg,Dc,Narendra Modi Stadium,Dc,Field,Lsg,Dc,161,187,Dc,Chase,54,Ayush Badoni
+142,2021,2021-03-20,Rcb,Mi,Rajiv Gandhi International Stadium,Mi,Field,Rcb,Mi,160,139,Rcb,Bat First,36,Jasprit Bumrah
+143,2021,2021-04-13,Rcb,Lsg,Ma Chidambaram Stadium,Lsg,Field,Rcb,Lsg,154,152,Rcb,Bat First,53,Glenn Maxwell
+144,2021,2021-05-11,Gt,Lsg,Pca Is Bindra Stadium,Gt,Field,Lsg,Gt,172,197,Gt,Chase,31,Ayush Badoni
+145,2021,2021-04-01,Csk,Rr,Arun Jaitley Stadium,Csk,Bat,Csk,Rr,149,129,Csk,Bat First,52,Ravindra Jadeja
+146,2021,2021-04-15,Mi,Kkr,Ma Chidambaram Stadium,Kkr,Field,Mi,Kkr,197,231,Kkr,Chase,30,Sunil Narine
+147,2021,2021-05-09,Kkr,Csk,M. Chinnaswamy Stadium,Kkr,Bat,Kkr,Csk,188,195,Csk,Chase,20,Ravindra Jadeja
+148,2021,2021-04-07,Srh,Gt,Sawai Mansingh Stadium,Srh,Bat,Srh,Gt,146,167,Gt,Chase,4,Pat Cummins
+149,2022,2022-04-20,Rcb,Gt,Ma Chidambaram Stadium,Gt,Bat,Gt,Rcb,164,160,Gt,Bat First,46,Mohammed Siraj
+150,2022,2022-05-13,Dc,Rcb,Sawai Mansingh Stadium,Rcb,Field,Dc,Rcb,183,156,Dc,Bat First,9,David Warner
+151,2022,2022-04-27,Srh,Mi,Rajiv Gandhi International Stadium,Mi,Field,Srh,Mi,195,208,Mi,Chase,22,Suryakumar Yadav
+152,2022,2022-05-02,Gt,Rcb,M. Chinnaswamy Stadium,Rcb,Bat,Rcb,Gt,127,159,Gt,Chase,34,Virat Kohli
+153,2022,2022-05-11,Srh,Dc,Wankhede Stadium,Srh,Field,Dc,Srh,146,141,Dc,Bat First,45,Heinrich Klaasen
+154,2022,2022-04-27,Rcb,Dc,Narendra Modi Stadium,Dc,Bat,Dc,Rcb,112,108,Dc,Bat First,46,Rishabh Pant
+155,2022,2022-05-07,Csk,Pbks,Sawai Mansingh Stadium,Pbks,Bat,Pbks,Csk,148,144,Pbks,Bat First,34,Sam Curran
+156,2022,2022-04-02,Rr,Rcb,Eden Gardens,Rcb,Bat,Rcb,Rr,235,220,Rcb,Bat First,47,Yashasvi Jaiswal
+157,2022,2022-04-02,Gt,Srh,Pca Is Bindra Stadium,Gt,Field,Srh,Gt,184,152,Srh,Bat First,31,Mohammed Shami
+158,2022,2022-05-17,Rcb,Kkr,Sawai Mansingh Stadium,Kkr,Field,Rcb,Kkr,227,232,Kkr,Chase,37,Sunil Narine
+159,2022,2022-03-28,Dc,Kkr,Arun Jaitley Stadium,Kkr,Field,Dc,Kkr,166,165,Dc,Bat First,49,Sunil Narine
+160,2022,2022-04-01,Rr,Srh,Pca Is Bindra Stadium,Rr,Field,Srh,Rr,165,182,Rr,Chase,38,Trent Boult
+161,2022,2022-04-26,Gt,Csk,Sawai Mansingh Stadium,Csk,Field,Gt,Csk,159,201,Csk,Chase,18,Ruturaj Gaikwad
+162,2022,2022-04-03,Mi,Csk,Rajiv Gandhi International Stadium,Mi,Field,Csk,Mi,188,216,Mi,Chase,12,Shivam Dube
+163,2022,2022-05-10,Dc,Csk,Ekana Cricket Stadium,Csk,Field,Dc,Csk,133,143,Csk,Chase,52,Ravindra Jadeja
+164,2022,2022-03-21,Rr,Mi,Wankhede Stadium,Mi,Field,Rr,Mi,132,135,Mi,Chase,42,Sanju Samson
+165,2022,2022-04-29,Kkr,Gt,Ma Chidambaram Stadium,Kkr,Field,Gt,Kkr,155,147,Gt,Bat First,44,Shubman Gill
+166,2022,2022-05-11,Rcb,Rr,Sawai Mansingh Stadium,Rcb,Field,Rr,Rcb,202,168,Rr,Bat First,54,Glenn Maxwell
+167,2022,2022-04-25,Kkr,Rcb,Ekana Cricket Stadium,Rcb,Field,Kkr,Rcb,151,165,Rcb,Chase,22,Glenn Maxwell
+168,2022,2022-04-30,Csk,Gt,Rajiv Gandhi International Stadium,Csk,Bat,Csk,Gt,179,212,Gt,Chase,34,Ruturaj Gaikwad
+169,2022,2022-05-13,Mi,Rcb,Arun Jaitley Stadium,Rcb,Field,Mi,Rcb,210,220,Rcb,Chase,34,Suryakumar Yadav
+170,2022,2022-04-19,Csk,Mi,Eden Gardens,Mi,Bat,Mi,Csk,192,200,Csk,Chase,45,Ruturaj Gaikwad
+171,2022,2022-03-29,Dc,Pbks,Arun Jaitley Stadium,Pbks,Bat,Pbks,Dc,173,138,Pbks,Bat First,52,Arshdeep Singh
+172,2022,2022-04-21,Lsg,Csk,Narendra Modi Stadium,Lsg,Bat,Lsg,Csk,153,128,Lsg,Bat First,25,Ruturaj Gaikwad
+173,2022,2022-05-21,Lsg,Csk,Sawai Mansingh Stadium,Csk,Bat,Csk,Lsg,166,154,Csk,Bat First,24,Ms Dhoni
+174,2022,2022-03-27,Dc,Mi,Rajiv Gandhi International Stadium,Mi,Field,Dc,Mi,180,178,Dc,Bat First,38,Hardik Pandya
+175,2022,2022-04-25,Gt,Csk,M. Chinnaswamy Stadium,Gt,Bat,Gt,Csk,176,158,Gt,Bat First,48,Mohammed Shami
+176,2022,2022-04-03,Dc,Rcb,Sawai Mansingh Stadium,Rcb,Field,Dc,Rcb,194,214,Rcb,Chase,30,David Warner
+177,2022,2022-04-07,Dc,Mi,Ekana Cricket Stadium,Dc,Field,Mi,Dc,147,198,Dc,Chase,27,Kuldeep Yadav
+178,2022,2022-04-28,Rr,Csk,Pca Is Bindra Stadium,Rr,Field,Csk,Rr,176,169,Csk,Bat First,11,Shivam Dube
+179,2022,2022-04-27,Gt,Csk,M. Chinnaswamy Stadium,Gt,Field,Csk,Gt,182,167,Csk,Bat First,19,Ravindra Jadeja
+180,2022,2022-04-11,Pbks,Lsg,Wankhede Stadium,Pbks,Bat,Pbks,Lsg,227,201,Pbks,Bat First,32,Kl Rahul
+181,2022,2022-04-15,Gt,Kkr,Arun Jaitley Stadium,Kkr,Field,Gt,Kkr,227,228,Kkr,Chase,17,Sai Sudharsan
+182,2022,2022-05-09,Pbks,Rcb,Wankhede Stadium,Pbks,Field,Rcb,Pbks,156,132,Rcb,Bat First,45,Liam Livingstone
+183,2022,2022-04-15,Pbks,Rr,M. Chinnaswamy Stadium,Pbks,Field,Rr,Pbks,197,160,Rr,Bat First,7,Yashasvi Jaiswal
+184,2022,2022-03-28,Pbks,Csk,Eden Gardens,Pbks,Field,Csk,Pbks,204,199,Csk,Bat First,41,Liam Livingstone
+185,2022,2022-04-24,Pbks,Kkr,Ma Chidambaram Stadium,Kkr,Field,Pbks,Kkr,175,200,Kkr,Chase,26,Sam Curran
+186,2022,2022-05-15,Csk,Srh,Narendra Modi Stadium,Srh,Bat,Srh,Csk,183,185,Csk,Chase,54,Ms Dhoni
+187,2022,2022-05-14,Srh,Csk,Narendra Modi Stadium,Srh,Field,Csk,Srh,169,139,Csk,Bat First,13,Ruturaj Gaikwad
+188,2022,2022-05-18,Lsg,Dc,Pca Is Bindra Stadium,Dc,Bat,Dc,Lsg,192,201,Lsg,Chase,37,Ayush Badoni
+189,2022,2022-03-30,Lsg,Rr,Ekana Cricket Stadium,Rr,Field,Lsg,Rr,166,172,Rr,Chase,3,Ravi Bishnoi
+190,2022,2022-05-14,Srh,Kkr,Ma Chidambaram Stadium,Kkr,Field,Srh,Kkr,146,135,Srh,Bat First,53,Andre Russell
+191,2022,2022-04-08,Rr,Dc,Ma Chidambaram Stadium,Rr,Bat,Rr,Dc,209,223,Dc,Chase,51,Kuldeep Yadav
+192,2022,2022-04-03,Kkr,Mi,Wankhede Stadium,Mi,Bat,Mi,Kkr,226,212,Mi,Bat First,30,Hardik Pandya
+193,2022,2022-04-14,Dc,Lsg,Eden Gardens,Dc,Bat,Dc,Lsg,115,116,Lsg,Chase,41,Ravi Bishnoi
+194,2022,2022-05-18,Rr,Kkr,Pca Is Bindra Stadium,Kkr,Field,Rr,Kkr,170,176,Kkr,Chase,25,Rinku Singh
+195,2022,2022-03-30,Pbks,Rcb,Arun Jaitley Stadium,Rcb,Field,Pbks,Rcb,172,144,Pbks,Bat First,5,Sam Curran
+196,2022,2022-03-20,Srh,Csk,Pca Is Bindra Stadium,Srh,Bat,Srh,Csk,166,196,Csk,Chase,8,Ms Dhoni
+197,2022,2022-03-31,Rr,Lsg,Rajiv Gandhi International Stadium,Lsg,Field,Rr,Lsg,129,153,Lsg,Chase,22,Kl Rahul
+198,2022,2022-03-31,Rr,Rcb,Wankhede Stadium,Rcb,Field,Rr,Rcb,224,198,Rr,Bat First,20,Yashasvi Jaiswal
+199,2022,2022-04-12,Mi,Csk,Arun Jaitley Stadium,Mi,Field,Csk,Mi,156,163,Mi,Chase,50,Ravindra Jadeja
+200,2022,2022-05-08,Srh,Mi,Ma Chidambaram Stadium,Srh,Field,Mi,Srh,165,168,Srh,Chase,42,Rohit Sharma
+201,2022,2022-04-03,Csk,Dc,Arun Jaitley Stadium,Dc,Field,Csk,Dc,136,122,Csk,Bat First,48,Kuldeep Yadav
+202,2022,2022-03-26,Rcb,Rr,Sawai Mansingh Stadium,Rcb,Field,Rr,Rcb,202,224,Rcb,Chase,18,Trent Boult
+203,2022,2022-04-25,Pbks,Srh,Ekana Cricket Stadium,Srh,Bat,Srh,Pbks,210,234,Pbks,Chase,27,Liam Livingstone
+204,2022,2022-04-30,Lsg,Rr,Pca Is Bindra Stadium,Lsg,Bat,Lsg,Rr,176,137,Lsg,Bat First,7,Ravi Bishnoi
+205,2022,2022-04-25,Rcb,Csk,M. Chinnaswamy Stadium,Rcb,Field,Csk,Rcb,156,170,Rcb,Chase,53,Ruturaj Gaikwad
+206,2022,2022-04-05,Rr,Mi,M. Chinnaswamy Stadium,Rr,Field,Mi,Rr,216,245,Rr,Chase,16,Jasprit Bumrah
+207,2022,2022-05-10,Pbks,Kkr,Eden Gardens,Kkr,Field,Pbks,Kkr,221,234,Kkr,Chase,37,Sam Curran
+208,2022,2022-05-18,Pbks,Kkr,Ekana Cricket Stadium,Pbks,Field,Kkr,Pbks,229,245,Pbks,Chase,5,Arshdeep Singh
+209,2022,2022-04-22,Rr,Lsg,Pca Is Bindra Stadium,Rr,Field,Lsg,Rr,158,177,Rr,Chase,46,Trent Boult
+210,2022,2022-04-21,Srh,Mi,Pca Is Bindra Stadium,Srh,Bat,Srh,Mi,177,191,Mi,Chase,13,Abhishek Sharma
+211,2022,2022-04-08,Csk,Lsg,Arun Jaitley Stadium,Lsg,Field,Csk,Lsg,193,211,Lsg,Chase,10,Shivam Dube
+212,2022,2022-04-29,Csk,Rcb,Narendra Modi Stadium,Csk,Bat,Csk,Rcb,118,136,Rcb,Chase,29,Virat Kohli
+213,2022,2022-03-21,Kkr,Rcb,Eden Gardens,Kkr,Field,Rcb,Kkr,114,92,Rcb,Bat First,45,Sunil Narine
+214,2022,2022-04-05,Pbks,Kkr,Sawai Mansingh Stadium,Kkr,Field,Pbks,Kkr,171,162,Pbks,Bat First,36,Arshdeep Singh
+215,2022,2022-04-09,Kkr,Mi,Sawai Mansingh Stadium,Kkr,Field,Mi,Kkr,236,245,Kkr,Chase,30,Rinku Singh
+216,2022,2022-04-23,Csk,Rr,Narendra Modi Stadium,Csk,Bat,Csk,Rr,200,194,Csk,Bat First,14,Ruturaj Gaikwad
+217,2022,2022-04-24,Rr,Csk,Ma Chidambaram Stadium,Rr,Field,Csk,Rr,208,211,Rr,Chase,53,Sanju Samson
+218,2022,2022-04-15,Pbks,Dc,Ma Chidambaram Stadium,Pbks,Field,Dc,Pbks,175,157,Dc,Bat First,41,Arshdeep Singh
+219,2022,2022-04-24,Pbks,Csk,Pca Is Bindra Stadium,Csk,Bat,Csk,Pbks,163,209,Pbks,Chase,23,Ms Dhoni
+220,2022,2022-05-20,Gt,Srh,Pca Is Bindra Stadium,Srh,Field,Gt,Srh,201,194,Gt,Bat First,45,Mohammed Shami
+221,2022,2022-04-25,Rr,Kkr,Ekana Cricket Stadium,Kkr,Field,Rr,Kkr,105,149,Kkr,Chase,53,Sanju Samson
+222,2022,2022-04-27,Kkr,Srh,Eden Gardens,Kkr,Field,Srh,Kkr,147,110,Srh,Bat First,41,Travis Head
+223,2023,2023-04-29,Lsg,Dc,Wankhede Stadium,Dc,Bat,Dc,Lsg,168,132,Dc,Bat First,53,Rishabh Pant
+224,2023,2023-04-02,Pbks,Mi,Eden Gardens,Mi,Field,Pbks,Mi,182,150,Pbks,Bat First,50,Jasprit Bumrah
+225,2023,2023-04-15,Kkr,Mi,M. Chinnaswamy Stadium,Mi,Field,Kkr,Mi,203,200,Kkr,Bat First,17,Hardik Pandya
+226,2023,2023-05-14,Kkr,Rr,Pca Is Bindra Stadium,Rr,Bat,Rr,Kkr,149,197,Kkr,Chase,8,Shreyas Iyer
+227,2023,2023-04-08,Mi,Dc,Sawai Mansingh Stadium,Mi,Bat,Mi,Dc,167,149,Mi,Bat First,4,Hardik Pandya
+228,2023,2023-03-27,Dc,Rcb,M. Chinnaswamy Stadium,Rcb,Field,Dc,Rcb,156,163,Rcb,Chase,25,Rajat Patidar
+229,2023,2023-04-09,Csk,Rr,Narendra Modi Stadium,Csk,Field,Rr,Csk,194,188,Rr,Bat First,47,Sanju Samson
+230,2023,2023-04-12,Dc,Mi,Narendra Modi Stadium,Mi,Field,Dc,Mi,134,156,Mi,Chase,25,Hardik Pandya
+231,2023,2023-04-20,Srh,Rr,Wankhede Stadium,Srh,Bat,Srh,Rr,127,177,Rr,Chase,30,Heinrich Klaasen
+232,2023,2023-03-31,Rcb,Kkr,Ekana Cricket Stadium,Rcb,Field,Kkr,Rcb,129,138,Rcb,Chase,18,Virat Kohli
+233,2023,2023-03-24,Rcb,Mi,Eden Gardens,Mi,Bat,Mi,Rcb,222,210,Mi,Bat First,40,Glenn Maxwell
+234,2023,2023-03-31,Kkr,Gt,M. Chinnaswamy Stadium,Gt,Bat,Gt,Kkr,193,184,Gt,Bat First,52,Rashid Khan
+235,2023,2023-04-26,Rr,Gt,Sawai Mansingh Stadium,Rr,Bat,Rr,Gt,157,149,Rr,Bat First,38,Shubman Gill
+236,2023,2023-03-26,Dc,Rr,Rajiv Gandhi International Stadium,Rr,Bat,Rr,Dc,200,202,Dc,Chase,4,Yashasvi Jaiswal
+237,2023,2023-03-25,Mi,Gt,Ekana Cricket Stadium,Mi,Field,Gt,Mi,155,172,Mi,Chase,46,Suryakumar Yadav
+238,2023,2023-05-18,Srh,Rr,Rajiv Gandhi International Stadium,Rr,Field,Srh,Rr,196,234,Rr,Chase,26,Trent Boult
+239,2023,2023-03-24,Dc,Lsg,Arun Jaitley Stadium,Dc,Field,Lsg,Dc,148,111,Lsg,Bat First,37,Ayush Badoni
+240,2023,2023-05-15,Csk,Dc,Sawai Mansingh Stadium,Csk,Bat,Csk,Dc,139,147,Dc,Chase,4,Rishabh Pant
+241,2023,2023-03-22,Pbks,Dc,M. Chinnaswamy Stadium,Pbks,Bat,Pbks,Dc,181,140,Pbks,Bat First,49,Rishabh Pant
+242,2023,2023-04-29,Mi,Gt,Ma Chidambaram Stadium,Mi,Field,Gt,Mi,189,184,Gt,Bat First,10,Jasprit Bumrah
+243,2023,2023-05-14,Mi,Csk,Pca Is Bindra Stadium,Csk,Bat,Csk,Mi,207,211,Mi,Chase,16,Ms Dhoni
+244,2023,2023-05-04,Pbks,Lsg,Ma Chidambaram Stadium,Pbks,Field,Lsg,Pbks,182,195,Pbks,Chase,45,Nicholas Pooran
+245,2023,2023-05-06,Rcb,Mi,Eden Gardens,Rcb,Field,Mi,Rcb,199,172,Mi,Bat First,36,Suryakumar Yadav
+246,2023,2023-04-16,Kkr,Csk,Ma Chidambaram Stadium,Kkr,Field,Csk,Kkr,162,136,Csk,Bat First,2,Sunil Narine
+247,2023,2023-03-23,Mi,Kkr,Eden Gardens,Kkr,Bat,Kkr,Mi,205,225,Mi,Chase,27,Hardik Pandya
+248,2023,2023-04-30,Mi,Csk,Wankhede Stadium,Mi,Field,Csk,Mi,162,133,Csk,Bat First,30,Suryakumar Yadav
+249,2023,2023-05-04,Dc,Rr,Wankhede Stadium,Rr,Field,Dc,Rr,225,189,Dc,Bat First,48,David Warner
+250,2023,2023-03-23,Gt,Rcb,Ekana Cricket Stadium,Rcb,Bat,Rcb,Gt,245,220,Rcb,Bat First,49,Mohammed Siraj
+251,2023,2023-04-02,Gt,Dc,Pca Is Bindra Stadium,Gt,Field,Dc,Gt,106,150,Gt,Chase,9,Sai Sudharsan
+252,2023,2023-04-24,Rr,Csk,Ma Chidambaram Stadium,Rr,Field,Csk,Rr,139,116,Csk,Bat First,40,Trent Boult
+253,2023,2023-05-22,Rcb,Rr,M. Chinnaswamy Stadium,Rcb,Field,Rr,Rcb,164,163,Rr,Bat First,51,Sanju Samson
+254,2023,2023-03-25,Mi,Lsg,M. Chinnaswamy Stadium,Mi,Bat,Mi,Lsg,205,178,Mi,Bat First,23,Jasprit Bumrah
+255,2023,2023-03-24,Dc,Gt,Sawai Mansingh Stadium,Dc,Field,Gt,Dc,176,229,Dc,Chase,22,Mohammed Shami
+256,2023,2023-04-03,Lsg,Dc,Ma Chidambaram Stadium,Dc,Bat,Dc,Lsg,175,163,Dc,Bat First,49,Rishabh Pant
+257,2023,2023-05-06,Kkr,Mi,M. Chinnaswamy Stadium,Mi,Field,Kkr,Mi,142,118,Kkr,Bat First,10,Rinku Singh
+258,2023,2023-05-05,Kkr,Csk,Arun Jaitley Stadium,Csk,Field,Kkr,Csk,127,184,Csk,Chase,7,Shivam Dube
+259,2023,2023-05-04,Rr,Kkr,Ma Chidambaram Stadium,Rr,Field,Kkr,Rr,149,139,Kkr,Bat First,4,Sanju Samson
+260,2023,2023-05-11,Pbks,Kkr,Sawai Mansingh Stadium,Kkr,Field,Pbks,Kkr,178,150,Pbks,Bat First,19,Shikhar Dhawan
+261,2023,2023-04-07,Gt,Mi,Rajiv Gandhi International Stadium,Mi,Bat,Mi,Gt,170,127,Mi,Bat First,33,Hardik Pandya
+262,2023,2023-04-02,Pbks,Srh,M. Chinnaswamy Stadium,Pbks,Field,Srh,Pbks,173,206,Pbks,Chase,47,Travis Head
+263,2023,2023-04-07,Rr,Srh,Eden Gardens,Rr,Field,Srh,Rr,150,212,Rr,Chase,21,Abhishek Sharma
+264,2023,2023-05-21,Rcb,Dc,Eden Gardens,Dc,Bat,Dc,Rcb,176,163,Dc,Bat First,42,David Warner
+265,2023,2023-04-23,Rcb,Rr,Arun Jaitley Stadium,Rcb,Field,Rr,Rcb,186,170,Rr,Bat First,20,Glenn Maxwell
+266,2023,2023-04-05,Rcb,Kkr,Arun Jaitley Stadium,Kkr,Field,Rcb,Kkr,202,186,Rcb,Bat First,50,Rajat Patidar
+267,2023,2023-05-01,Rcb,Gt,Arun Jaitley Stadium,Rcb,Field,Gt,Rcb,156,152,Gt,Bat First,36,Virat Kohli
+268,2023,2023-05-02,Kkr,Pbks,Wankhede Stadium,Kkr,Field,Pbks,Kkr,149,132,Pbks,Bat First,34,Sam Curran
+269,2023,2023-04-30,Srh,Rr,Ma Chidambaram Stadium,Srh,Field,Rr,Srh,201,200,Rr,Bat First,43,Trent Boult
+270,2023,2023-04-03,Srh,Csk,Arun Jaitley Stadium,Csk,Field,Srh,Csk,201,223,Csk,Chase,6,Shivam Dube
+271,2023,2023-04-29,Dc,Csk,Arun Jaitley Stadium,Dc,Field,Csk,Dc,196,205,Dc,Chase,20,Ruturaj Gaikwad
+272,2023,2023-05-16,Kkr,Gt,Narendra Modi Stadium,Kkr,Bat,Kkr,Gt,136,154,Gt,Chase,49,Andre Russell
+273,2023,2023-03-24,Lsg,Gt,Ma Chidambaram Stadium,Lsg,Bat,Lsg,Gt,152,175,Gt,Chase,20,Nicholas Pooran
+274,2023,2023-04-30,Csk,Srh,Ekana Cricket Stadium,Srh,Field,Csk,Srh,142,115,Csk,Bat First,27,Pat Cummins
+275,2023,2023-04-11,Kkr,Rr,Pca Is Bindra Stadium,Rr,Field,Kkr,Rr,148,132,Kkr,Bat First,4,Yashasvi Jaiswal
+276,2023,2023-03-23,Rcb,Csk,Ma Chidambaram Stadium,Csk,Field,Rcb,Csk,187,223,Csk,Chase,11,Glenn Maxwell
+277,2023,2023-05-17,Lsg,Rcb,Arun Jaitley Stadium,Rcb,Bat,Rcb,Lsg,202,201,Rcb,Bat First,36,Ayush Badoni
+278,2023,2023-03-24,Rcb,Pbks,Narendra Modi Stadium,Pbks,Field,Rcb,Pbks,160,147,Rcb,Bat First,22,Arshdeep Singh
+279,2023,2023-05-03,Pbks,Lsg,Eden Gardens,Pbks,Bat,Pbks,Lsg,186,216,Lsg,Chase,22,Arshdeep Singh
+280,2023,2023-04-10,Gt,Kkr,Sawai Mansingh Stadium,Kkr,Bat,Kkr,Gt,191,242,Gt,Chase,31,Mohammed Shami
+281,2023,2023-04-20,Gt,Rr,Pca Is Bindra Stadium,Gt,Field,Rr,Gt,189,158,Rr,Bat First,40,Rashid Khan
+282,2023,2023-04-26,Mi,Srh,Ma Chidambaram Stadium,Mi,Bat,Mi,Srh,239,212,Mi,Bat First,31,Abhishek Sharma
+283,2023,2023-05-17,Srh,Pbks,Eden Gardens,Srh,Bat,Srh,Pbks,184,154,Srh,Bat First,40,Arshdeep Singh
+284,2023,2023-05-16,Gt,Mi,Wankhede Stadium,Gt,Field,Mi,Gt,195,196,Gt,Chase,31,Sai Sudharsan
+285,2023,2023-04-24,Gt,Csk,Arun Jaitley Stadium,Gt,Bat,Gt,Csk,144,111,Gt,Bat First,7,Ruturaj Gaikwad
+286,2023,2023-05-04,Rcb,Lsg,Rajiv Gandhi International Stadium,Lsg,Bat,Lsg,Rcb,156,129,Lsg,Bat First,6,Nicholas Pooran
+287,2023,2023-05-15,Rcb,Csk,Narendra Modi Stadium,Rcb,Field,Csk,Rcb,178,141,Csk,Bat First,6,Rajat Patidar
+288,2023,2023-04-23,Srh,Kkr,Pca Is Bindra Stadium,Srh,Field,Kkr,Srh,189,186,Kkr,Bat First,42,Pat Cummins
+289,2023,2023-04-19,Kkr,Csk,M. Chinnaswamy Stadium,Csk,Bat,Csk,Kkr,179,175,Csk,Bat First,18,Ravindra Jadeja
+290,2023,2023-05-16,Gt,Pbks,Rajiv Gandhi International Stadium,Gt,Field,Pbks,Gt,185,172,Pbks,Bat First,18,Mohammed Shami
+291,2023,2023-03-31,Pbks,Rr,Narendra Modi Stadium,Rr,Bat,Rr,Pbks,205,190,Rr,Bat First,15,Sam Curran
+292,2023,2023-04-07,Srh,Mi,Ma Chidambaram Stadium,Srh,Bat,Srh,Mi,183,168,Srh,Bat First,49,Abhishek Sharma
+293,2023,2023-05-07,Mi,Dc,Narendra Modi Stadium,Mi,Field,Dc,Mi,192,172,Dc,Bat First,23,Suryakumar Yadav
+294,2023,2023-05-07,Gt,Csk,M. Chinnaswamy Stadium,Gt,Field,Csk,Gt,162,171,Gt,Chase,2,Shubman Gill
+295,2023,2023-05-02,Csk,Mi,M. Chinnaswamy Stadium,Mi,Field,Csk,Mi,158,147,Csk,Bat First,18,Shivam Dube
+296,2023,2023-03-30,Pbks,Mi,M. Chinnaswamy Stadium,Mi,Field,Pbks,Mi,242,207,Pbks,Bat First,21,Jasprit Bumrah
+297,2024,2024-03-24,Rcb,Rr,Pca Is Bindra Stadium,Rcb,Field,Rr,Rcb,184,207,Rcb,Chase,28,Yashasvi Jaiswal
+298,2024,2024-05-12,Lsg,Dc,Pca Is Bindra Stadium,Dc,Bat,Dc,Lsg,170,175,Lsg,Chase,12,Rishabh Pant
+299,2024,2024-04-26,Srh,Mi,Wankhede Stadium,Mi,Field,Srh,Mi,158,199,Mi,Chase,18,Suryakumar Yadav
+300,2024,2024-05-16,Gt,Rr,Narendra Modi Stadium,Rr,Bat,Rr,Gt,141,90,Rr,Bat First,34,Mohammed Shami
+301,2024,2024-05-19,Lsg,Rcb,Ekana Cricket Stadium,Lsg,Field,Rcb,Lsg,171,150,Rcb,Bat First,44,Glenn Maxwell
+302,2024,2024-04-04,Dc,Rr,Arun Jaitley Stadium,Dc,Bat,Dc,Rr,171,149,Dc,Bat First,54,Trent Boult
+303,2024,2024-05-10,Gt,Kkr,Wankhede Stadium,Kkr,Field,Gt,Kkr,182,164,Gt,Bat First,15,Mohammed Shami
+304,2024,2024-04-02,Srh,Rr,Narendra Modi Stadium,Srh,Bat,Srh,Rr,135,136,Rr,Chase,42,Heinrich Klaasen
+305,2024,2024-05-09,Rr,Csk,Sawai Mansingh Stadium,Rr,Bat,Rr,Csk,223,215,Rr,Bat First,54,Ms Dhoni
+306,2024,2024-04-03,Srh,Rr,Narendra Modi Stadium,Rr,Field,Srh,Rr,178,183,Rr,Chase,5,Abhishek Sharma
+307,2024,2024-04-13,Csk,Gt,M. Chinnaswamy Stadium,Csk,Field,Gt,Csk,161,181,Csk,Chase,52,Ruturaj Gaikwad
+308,2024,2024-04-28,Lsg,Gt,Wankhede Stadium,Lsg,Field,Gt,Lsg,168,173,Lsg,Chase,43,Kl Rahul
+309,2024,2024-03-25,Pbks,Rr,Sawai Mansingh Stadium,Rr,Bat,Rr,Pbks,156,196,Pbks,Chase,38,Arshdeep Singh
+310,2024,2024-04-20,Dc,Kkr,Ma Chidambaram Stadium,Dc,Field,Kkr,Dc,184,148,Kkr,Bat First,48,David Warner
+311,2024,2024-03-24,Kkr,Rcb,Sawai Mansingh Stadium,Rcb,Field,Kkr,Rcb,168,139,Kkr,Bat First,36,Virat Kohli
+312,2024,2024-04-02,Mi,Srh,Pca Is Bindra Stadium,Srh,Field,Mi,Srh,174,191,Srh,Chase,49,Abhishek Sharma
+313,2024,2024-04-25,Gt,Srh,Wankhede Stadium,Srh,Bat,Srh,Gt,161,167,Gt,Chase,43,Abhishek Sharma
+314,2024,2024-04-17,Pbks,Rcb,Rajiv Gandhi International Stadium,Rcb,Bat,Rcb,Pbks,200,214,Pbks,Chase,15,Mohammed Siraj
+315,2024,2024-04-12,Rr,Srh,Ma Chidambaram Stadium,Srh,Bat,Srh,Rr,185,209,Rr,Chase,54,Sanju Samson
+316,2024,2024-05-01,Rr,Srh,Eden Gardens,Rr,Field,Srh,Rr,161,176,Rr,Chase,33,Travis Head
+317,2024,2024-04-27,Gt,Rr,Narendra Modi Stadium,Rr,Field,Gt,Rr,131,173,Rr,Chase,40,Yashasvi Jaiswal
+318,2024,2024-04-16,Pbks,Dc,M. Chinnaswamy Stadium,Pbks,Field,Dc,Pbks,184,166,Dc,Bat First,40,Axar Patel
+319,2024,2024-05-23,Srh,Lsg,Wankhede Stadium,Srh,Field,Lsg,Srh,168,136,Lsg,Bat First,50,Ayush Badoni
+320,2024,2024-04-22,Lsg,Mi,Arun Jaitley Stadium,Lsg,Bat,Lsg,Mi,245,245,Mi,Chase,47,Jasprit Bumrah
+321,2024,2024-04-04,Csk,Gt,Arun Jaitley Stadium,Gt,Field,Csk,Gt,201,212,Gt,Chase,43,Mohammed Shami
+322,2024,2024-04-06,Gt,Mi,Pca Is Bindra Stadium,Mi,Bat,Mi,Gt,188,163,Mi,Bat First,21,Mohammed Shami
+323,2024,2024-04-08,Pbks,Lsg,Eden Gardens,Lsg,Bat,Lsg,Pbks,166,163,Lsg,Bat First,29,Arshdeep Singh
+324,2024,2024-05-16,Csk,Rr,Ekana Cricket Stadium,Rr,Field,Csk,Rr,189,192,Rr,Chase,16,Sanju Samson
+325,2024,2024-05-22,Lsg,Srh,Rajiv Gandhi International Stadium,Lsg,Field,Srh,Lsg,195,213,Lsg,Chase,19,Kl Rahul
+326,2024,2024-05-16,Dc,Lsg,M. Chinnaswamy Stadium,Lsg,Field,Dc,Lsg,132,117,Dc,Bat First,3,Kl Rahul
+327,2024,2024-05-23,Gt,Srh,Ekana Cricket Stadium,Srh,Bat,Srh,Gt,161,148,Srh,Bat First,7,Heinrich Klaasen
+328,2024,2024-05-15,Dc,Lsg,Ma Chidambaram Stadium,Dc,Bat,Dc,Lsg,201,205,Lsg,Chase,24,Rishabh Pant
+329,2024,2024-04-23,Gt,Pbks,Eden Gardens,Pbks,Bat,Pbks,Gt,120,130,Gt,Chase,7,Sam Curran
+330,2024,2024-03-23,Rr,Pbks,Pca Is Bindra Stadium,Rr,Field,Pbks,Rr,162,167,Rr,Chase,33,Liam Livingstone
+331,2024,2024-03-24,Rr,Srh,M. Chinnaswamy Stadium,Rr,Field,Srh,Rr,175,164,Srh,Bat First,22,Pat Cummins
+332,2024,2024-04-26,Rcb,Srh,Wankhede Stadium,Rcb,Field,Srh,Rcb,210,215,Rcb,Chase,12,Travis Head
+333,2024,2024-05-06,Lsg,Csk,Eden Gardens,Csk,Field,Lsg,Csk,155,156,Csk,Chase,42,Nicholas Pooran
+334,2024,2024-04-03,Dc,Kkr,Ma Chidambaram Stadium,Dc,Bat,Dc,Kkr,139,115,Dc,Bat First,45,Shreyas Iyer
+335,2024,2024-05-01,Lsg,Mi,Arun Jaitley Stadium,Lsg,Bat,Lsg,Mi,175,178,Mi,Chase,28,Hardik Pandya
+336,2024,2024-04-02,Lsg,Gt,Ekana Cricket Stadium,Gt,Field,Lsg,Gt,170,160,Lsg,Bat First,10,Mohammed Shami
+337,2024,2024-04-24,Gt,Mi,Wankhede Stadium,Mi,Bat,Mi,Gt,165,163,Mi,Bat First,22,Rashid Khan
+338,2024,2024-04-01,Rcb,Pbks,M. Chinnaswamy Stadium,Pbks,Field,Rcb,Pbks,105,123,Pbks,Chase,49,Shikhar Dhawan
+339,2024,2024-04-25,Kkr,Dc,Arun Jaitley Stadium,Kkr,Field,Dc,Kkr,214,194,Dc,Bat First,29,Andre Russell
+340,2024,2024-03-26,Dc,Kkr,Ekana Cricket Stadium,Dc,Field,Kkr,Dc,120,96,Kkr,Bat First,11,Andre Russell
+341,2024,2024-05-22,Rcb,Rr,M. Chinnaswamy Stadium,Rr,Field,Rcb,Rr,162,160,Rcb,Bat First,45,Mohammed Siraj
+342,2024,2024-05-22,Dc,Lsg,Ekana Cricket Stadium,Lsg,Bat,Lsg,Dc,165,125,Lsg,Bat First,47,Ayush Badoni
+343,2024,2024-04-04,Mi,Kkr,M. Chinnaswamy Stadium,Mi,Field,Kkr,Mi,169,198,Mi,Chase,32,Shreyas Iyer
+344,2024,2024-05-22,Gt,Csk,Ekana Cricket Stadium,Gt,Bat,Gt,Csk,226,189,Gt,Bat First,15,Ravindra Jadeja
+345,2024,2024-04-04,Rcb,Pbks,Ekana Cricket Stadium,Rcb,Field,Pbks,Rcb,145,147,Rcb,Chase,52,Arshdeep Singh
+346,2024,2024-04-11,Mi,Rcb,Pca Is Bindra Stadium,Mi,Field,Rcb,Mi,192,209,Mi,Chase,13,Rohit Sharma
+347,2024,2024-05-17,Dc,Rcb,Ma Chidambaram Stadium,Rcb,Field,Dc,Rcb,209,245,Rcb,Chase,5,Axar Patel
+348,2024,2024-04-14,Csk,Kkr,Wankhede Stadium,Kkr,Bat,Kkr,Csk,134,147,Csk,Chase,36,Sunil Narine
+349,2024,2024-04-06,Lsg,Kkr,Rajiv Gandhi International Stadium,Lsg,Bat,Lsg,Kkr,201,205,Kkr,Chase,30,Kl Rahul
+350,2024,2024-04-16,Mi,Pbks,Eden Gardens,Pbks,Field,Mi,Pbks,162,155,Mi,Bat First,51,Hardik Pandya
+351,2024,2024-04-20,Rcb,Kkr,M. Chinnaswamy Stadium,Kkr,Bat,Kkr,Rcb,147,113,Kkr,Bat First,30,Sunil Narine
+352,2024,2024-04-17,Rcb,Csk,Narendra Modi Stadium,Rcb,Bat,Rcb,Csk,226,214,Rcb,Bat First,22,Virat Kohli
+353,2024,2024-04-22,Rr,Rcb,Pca Is Bindra Stadium,Rcb,Bat,Rcb,Rr,135,125,Rcb,Bat First,33,Trent Boult
+354,2024,2024-04-05,Srh,Mi,Pca Is Bindra Stadium,Srh,Field,Mi,Srh,143,126,Mi,Bat First,39,Suryakumar Yadav
+355,2024,2024-05-03,Rr,Dc,Rajiv Gandhi International Stadium,Dc,Field,Rr,Dc,169,135,Rr,Bat First,14,Yashasvi Jaiswal
+356,2024,2024-04-16,Gt,Dc,Sawai Mansingh Stadium,Dc,Field,Gt,Dc,202,209,Dc,Chase,8,Rishabh Pant
+357,2024,2024-03-27,Kkr,Dc,M. Chinnaswamy Stadium,Kkr,Bat,Kkr,Dc,153,136,Kkr,Bat First,42,Shreyas Iyer
+358,2024,2024-03-20,Srh,Rr,Wankhede Stadium,Rr,Bat,Rr,Srh,202,223,Srh,Chase,31,Yashasvi Jaiswal
+359,2024,2024-03-28,Kkr,Lsg,Pca Is Bindra Stadium,Kkr,Field,Lsg,Kkr,200,184,Lsg,Bat First,11,Rinku Singh
+360,2024,2024-03-30,Lsg,Srh,Wankhede Stadium,Lsg,Field,Srh,Lsg,204,203,Srh,Bat First,6,Ayush Badoni
+361,2024,2024-04-19,Pbks,Lsg,Ekana Cricket Stadium,Pbks,Field,Lsg,Pbks,172,205,Pbks,Chase,19,Shikhar Dhawan
+362,2024,2024-03-22,Dc,Csk,Eden Gardens,Csk,Field,Dc,Csk,114,90,Dc,Bat First,33,Rishabh Pant
+363,2024,2024-05-01,Pbks,Rcb,Sawai Mansingh Stadium,Rcb,Field,Pbks,Rcb,180,144,Pbks,Bat First,23,Sam Curran
+364,2024,2024-04-14,Dc,Srh,Rajiv Gandhi International Stadium,Dc,Field,Srh,Dc,113,157,Dc,Chase,15,Rishabh Pant
+365,2024,2024-05-07,Csk,Dc,Ekana Cricket Stadium,Dc,Bat,Dc,Csk,154,129,Dc,Bat First,7,Ravindra Jadeja
+366,2024,2024-04-19,Rcb,Pbks,Pca Is Bindra Stadium,Rcb,Bat,Rcb,Pbks,180,176,Rcb,Bat First,21,Virat Kohli
+367,2024,2024-05-16,Lsg,Dc,Ekana Cricket Stadium,Lsg,Field,Dc,Lsg,161,127,Dc,Bat First,52,Axar Patel
+368,2024,2024-03-22,Rcb,Pbks,Narendra Modi Stadium,Rcb,Bat,Rcb,Pbks,158,181,Pbks,Chase,32,Glenn Maxwell
+369,2024,2024-04-07,Dc,Csk,Wankhede Stadium,Dc,Bat,Dc,Csk,161,179,Csk,Chase,28,Ruturaj Gaikwad
+370,2024,2024-04-14,Dc,Rr,Sawai Mansingh Stadium,Dc,Bat,Dc,Rr,174,173,Dc,Bat First,12,Trent Boult
+371,2025,2025-04-25,Gt,Pbks,Rajiv Gandhi International Stadium,Gt,Bat,Gt,Pbks,171,168,Gt,Bat First,16,Shubman Gill
+372,2025,2025-05-05,Pbks,Mi,Pca Is Bindra Stadium,Mi,Bat,Mi,Pbks,219,199,Mi,Bat First,26,Shikhar Dhawan
+373,2025,2025-04-09,Rcb,Pbks,Ma Chidambaram Stadium,Pbks,Field,Rcb,Pbks,185,182,Rcb,Bat First,37,Virat Kohli
+374,2025,2025-04-16,Gt,Srh,Pca Is Bindra Stadium,Gt,Field,Srh,Gt,165,190,Gt,Chase,44,Abhishek Sharma
+375,2025,2025-05-20,Kkr,Lsg,M. Chinnaswamy Stadium,Kkr,Field,Lsg,Kkr,195,241,Kkr,Chase,3,Ravi Bishnoi
+376,2025,2025-04-10,Rr,Srh,Pca Is Bindra Stadium,Rr,Field,Srh,Rr,159,111,Srh,Bat First,52,Trent Boult
+377,2025,2025-05-20,Rr,Mi,Eden Gardens,Rr,Field,Mi,Rr,188,169,Mi,Bat First,35,Rohit Sharma
+378,2025,2025-04-03,Csk,Rcb,Rajiv Gandhi International Stadium,Csk,Bat,Csk,Rcb,149,157,Rcb,Chase,9,Ruturaj Gaikwad
+379,2025,2025-04-26,Mi,Dc,Eden Gardens,Mi,Field,Dc,Mi,192,194,Mi,Chase,38,Rishabh Pant
+380,2025,2025-04-09,Csk,Pbks,Eden Gardens,Csk,Bat,Csk,Pbks,134,121,Csk,Bat First,33,Ravindra Jadeja
+381,2025,2025-04-16,Srh,Dc,Ma Chidambaram Stadium,Srh,Field,Dc,Srh,149,148,Dc,Bat First,26,Rishabh Pant
+382,2025,2025-05-16,Mi,Gt,Arun Jaitley Stadium,Mi,Field,Gt,Mi,168,192,Mi,Chase,36,Jasprit Bumrah
+383,2025,2025-05-03,Srh,Mi,Eden Gardens,Mi,Bat,Mi,Srh,154,165,Srh,Chase,48,Rohit Sharma
+384,2025,2025-04-28,Rr,Pbks,Rajiv Gandhi International Stadium,Rr,Field,Pbks,Rr,123,168,Rr,Chase,5,Arshdeep Singh
+385,2025,2025-04-22,Rr,Srh,Pca Is Bindra Stadium,Rr,Field,Srh,Rr,129,155,Rr,Chase,52,Yashasvi Jaiswal
+386,2025,2025-04-21,Mi,Rr,Wankhede Stadium,Rr,Field,Mi,Rr,160,139,Mi,Bat First,34,Hardik Pandya
+387,2025,2025-05-21,Csk,Rr,Pca Is Bindra Stadium,Csk,Bat,Csk,Rr,105,96,Csk,Bat First,14,Jos Buttler
+388,2025,2025-04-17,Dc,Rr,Ekana Cricket Stadium,Dc,Bat,Dc,Rr,168,203,Rr,Chase,32,Jos Buttler
+389,2025,2025-05-02,Lsg,Rr,Rajiv Gandhi International Stadium,Rr,Field,Lsg,Rr,233,218,Lsg,Bat First,11,Kl Rahul
+390,2025,2025-04-10,Srh,Rcb,M. Chinnaswamy Stadium,Srh,Bat,Srh,Rcb,171,174,Rcb,Chase,8,Glenn Maxwell
+391,2025,2025-04-19,Srh,Rr,Narendra Modi Stadium,Rr,Bat,Rr,Srh,166,151,Rr,Bat First,23,Abhishek Sharma
+392,2025,2025-05-08,Gt,Kkr,Ekana Cricket Stadium,Kkr,Bat,Kkr,Gt,131,141,Gt,Chase,11,Sunil Narine
+393,2025,2025-04-03,Csk,Srh,M. Chinnaswamy Stadium,Csk,Bat,Csk,Srh,201,184,Csk,Bat First,14,Abhishek Sharma
+394,2025,2025-05-10,Mi,Gt,Wankhede Stadium,Gt,Bat,Gt,Mi,157,140,Gt,Bat First,26,Suryakumar Yadav
+395,2025,2025-05-06,Rr,Gt,Eden Gardens,Gt,Bat,Gt,Rr,201,188,Gt,Bat First,31,Rashid Khan
+396,2025,2025-04-30,Srh,Mi,Wankhede Stadium,Srh,Field,Mi,Srh,126,169,Srh,Chase,41,Pat Cummins
+397,2025,2025-04-08,Lsg,Rr,Eden Gardens,Lsg,Bat,Lsg,Rr,236,216,Lsg,Bat First,3,Jos Buttler
+398,2025,2025-04-07,Srh,Pbks,Pca Is Bindra Stadium,Srh,Bat,Srh,Pbks,139,160,Pbks,Chase,40,Abhishek Sharma
+399,2025,2025-04-09,Rcb,Rr,Rajiv Gandhi International Stadium,Rr,Bat,Rr,Rcb,163,146,Rr,Bat First,24,Glenn Maxwell
+400,2025,2025-05-13,Pbks,Mi,Narendra Modi Stadium,Mi,Bat,Mi,Pbks,184,200,Pbks,Chase,35,Jasprit Bumrah
+401,2025,2025-04-26,Gt,Rcb,Pca Is Bindra Stadium,Rcb,Field,Gt,Rcb,132,117,Gt,Bat First,20,Sai Sudharsan
+402,2025,2025-04-21,Dc,Lsg,Ma Chidambaram Stadium,Lsg,Field,Dc,Lsg,198,180,Dc,Bat First,21,Nicholas Pooran
+403,2025,2025-05-23,Srh,Rr,Pca Is Bindra Stadium,Rr,Bat,Rr,Srh,180,154,Rr,Bat First,50,Pat Cummins
+404,2025,2025-04-17,Rcb,Dc,Ekana Cricket Stadium,Rcb,Field,Dc,Rcb,153,160,Rcb,Chase,8,Glenn Maxwell
+405,2025,2025-05-17,Rcb,Kkr,Ma Chidambaram Stadium,Kkr,Field,Rcb,Kkr,155,172,Kkr,Chase,29,Sunil Narine
+406,2025,2025-04-17,Kkr,Pbks,M. Chinnaswamy Stadium,Kkr,Bat,Kkr,Pbks,209,202,Kkr,Bat First,51,Sunil Narine
+407,2025,2025-04-27,Kkr,Dc,Narendra Modi Stadium,Kkr,Field,Dc,Kkr,181,203,Kkr,Chase,32,Rinku Singh
+408,2025,2025-05-09,Pbks,Csk,M. Chinnaswamy Stadium,Pbks,Bat,Pbks,Csk,218,217,Pbks,Bat First,30,Arshdeep Singh
+409,2025,2025-05-08,Gt,Csk,Ekana Cricket Stadium,Csk,Bat,Csk,Gt,193,207,Gt,Chase,39,Rashid Khan
+410,2025,2025-05-07,Csk,Mi,Ekana Cricket Stadium,Mi,Field,Csk,Mi,182,188,Mi,Chase,42,Shivam Dube
+411,2025,2025-04-11,Dc,Rcb,Ekana Cricket Stadium,Dc,Field,Rcb,Dc,223,230,Dc,Chase,24,Glenn Maxwell
+412,2025,2025-03-24,Pbks,Mi,Pca Is Bindra Stadium,Mi,Field,Pbks,Mi,194,214,Mi,Chase,24,Shikhar Dhawan
+413,2025,2025-04-27,Rcb,Kkr,Ma Chidambaram Stadium,Kkr,Bat,Kkr,Rcb,111,140,Rcb,Chase,38,Rinku Singh
+414,2025,2025-04-12,Lsg,Gt,Ma Chidambaram Stadium,Gt,Bat,Gt,Lsg,149,108,Gt,Bat First,39,Kl Rahul
+415,2025,2025-04-18,Csk,Gt,Ekana Cricket Stadium,Csk,Bat,Csk,Gt,118,154,Gt,Chase,15,Sai Sudharsan
+416,2025,2025-04-07,Rr,Kkr,Sawai Mansingh Stadium,Kkr,Field,Rr,Kkr,183,208,Kkr,Chase,34,Yashasvi Jaiswal
+417,2025,2025-05-03,Srh,Rr,Ma Chidambaram Stadium,Srh,Bat,Srh,Rr,161,170,Rr,Chase,28,Jos Buttler
+418,2025,2025-04-20,Lsg,Csk,M. Chinnaswamy Stadium,Lsg,Field,Csk,Lsg,197,198,Lsg,Chase,16,Ravi Bishnoi
+419,2025,2025-04-13,Rcb,Srh,Ma Chidambaram Stadium,Srh,Field,Rcb,Srh,170,159,Rcb,Bat First,43,Mohammed Siraj
+420,2025,2025-04-17,Csk,Srh,Arun Jaitley Stadium,Csk,Field,Srh,Csk,167,179,Csk,Chase,47,Heinrich Klaasen
+421,2025,2025-03-30,Pbks,Rcb,Rajiv Gandhi International Stadium,Pbks,Field,Rcb,Pbks,184,205,Pbks,Chase,9,Sam Curran
+422,2025,2025-04-06,Mi,Kkr,Sawai Mansingh Stadium,Kkr,Field,Mi,Kkr,166,164,Mi,Bat First,19,Jasprit Bumrah
+423,2025,2025-04-05,Dc,Csk,Ma Chidambaram Stadium,Csk,Field,Dc,Csk,188,207,Csk,Chase,2,Ms Dhoni
+424,2025,2025-04-18,Rcb,Srh,Pca Is Bindra Stadium,Srh,Field,Rcb,Srh,157,186,Srh,Chase,50,Travis Head
+425,2025,2025-04-27,Lsg,Kkr,Eden Gardens,Kkr,Bat,Kkr,Lsg,182,163,Kkr,Bat First,43,Rinku Singh
+426,2025,2025-04-05,Dc,Csk,Ma Chidambaram Stadium,Csk,Bat,Csk,Dc,230,163,Csk,Bat First,50,Ravindra Jadeja
+427,2025,2025-04-21,Srh,Rr,Rajiv Gandhi International Stadium,Srh,Bat,Srh,Rr,199,162,Srh,Bat First,35,Yashasvi Jaiswal
+428,2025,2025-04-01,Dc,Srh,Arun Jaitley Stadium,Dc,Field,Srh,Dc,202,200,Srh,Bat First,52,David Warner
+429,2025,2025-03-30,Srh,Rr,Ekana Cricket Stadium,Rr,Field,Srh,Rr,185,235,Rr,Chase,24,Yashasvi Jaiswal
+430,2025,2025-04-17,Rr,Pbks,Arun Jaitley Stadium,Pbks,Bat,Pbks,Rr,138,119,Pbks,Bat First,23,Arshdeep Singh
+431,2025,2025-03-29,Srh,Kkr,Ekana Cricket Stadium,Kkr,Field,Srh,Kkr,146,134,Srh,Bat First,17,Andre Russell
+432,2025,2025-04-04,Kkr,Rcb,Sawai Mansingh Stadium,Rcb,Bat,Rcb,Kkr,179,196,Kkr,Chase,33,Virat Kohli
+433,2025,2025-03-26,Rcb,Lsg,Ma Chidambaram Stadium,Rcb,Field,Lsg,Rcb,205,245,Rcb,Chase,39,Rajat Patidar
+434,2025,2025-04-06,Lsg,Kkr,Wankhede Stadium,Lsg,Field,Kkr,Lsg,185,176,Kkr,Bat First,53,Andre Russell
+435,2025,2025-05-09,Pbks,Gt,Ekana Cricket Stadium,Gt,Field,Pbks,Gt,190,172,Pbks,Bat First,11,Sai Sudharsan
+436,2025,2025-04-05,Srh,Pbks,Ma Chidambaram Stadium,Srh,Bat,Srh,Pbks,144,199,Pbks,Chase,5,Pat Cummins
+437,2025,2025-04-06,Kkr,Dc,Arun Jaitley Stadium,Kkr,Bat,Kkr,Dc,225,239,Dc,Chase,19,Shreyas Iyer
+438,2025,2025-04-07,Rcb,Gt,Eden Gardens,Gt,Bat,Gt,Rcb,196,206,Rcb,Chase,22,Mohammed Siraj
+439,2025,2025-04-23,Pbks,Kkr,Ma Chidambaram Stadium,Pbks,Field,Kkr,Pbks,139,160,Pbks,Chase,34,Sunil Narine
+440,2025,2025-04-12,Gt,Pbks,Ekana Cricket Stadium,Pbks,Bat,Pbks,Gt,177,173,Pbks,Bat First,8,Rashid Khan
+441,2025,2025-05-08,Mi,Gt,Arun Jaitley Stadium,Gt,Field,Mi,Gt,177,171,Mi,Bat First,14,Hardik Pandya
+442,2025,2025-04-14,Csk,Srh,Pca Is Bindra Stadium,Srh,Field,Csk,Srh,208,216,Srh,Chase,49,Shivam Dube
+443,2025,2025-04-03,Rr,Rcb,Sawai Mansingh Stadium,Rcb,Bat,Rcb,Rr,204,176,Rcb,Bat First,20,Rajat Patidar
+444,2025,2025-05-12,Srh,Rr,Ekana Cricket Stadium,Rr,Field,Srh,Rr,216,197,Srh,Bat First,42,Pat Cummins
