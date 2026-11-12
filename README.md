@@ -1,5 +1,3 @@
-# IPL Performance & Team Strategy Analytics
-
 # 🏏 IPL Performance & Team Strategy Analytics | SQL & Power BI
 
 ## 📌 Project Overview
